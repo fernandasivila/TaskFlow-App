@@ -1,7 +1,7 @@
-#📝TaskFlow
+# 📝TaskFlow
 Una aplicación móvil para gestión de tareas desarrollada con React Native y Expo.
 
-##Instalación
+## Instalación
 1. Clona el proyecto
 ```bash
 git clone [https://github.com/fernandasivila/TaskFlow-App.git](https://github.com/fernandasivila/TaskFlow-App.git)
