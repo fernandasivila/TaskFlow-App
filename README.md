@@ -15,3 +15,7 @@ cd taskflow-app
 
 > [!NOTE]
 > Si descargas Expo Go en tu celular y escaneas el codigo que aparece en pantalla al iniciar el servidor, podrás ver TaskFlow 📱  
+
+### Pantallas disponibles
+1. HomeScreen: incluye un pequeño saludo de bienvenida a la app
+2. ProfileScreen: muestra el perfil del usuario incluyendo foto, nombre y rol.
