@@ -1,10 +1,11 @@
 import { View } from "react-native";
 import { theme } from "../theme/theme";
+import { Welcome } from "../components/Welcome";
 
 export default function HomeScreen() {
   return (
     <View style={theme.container}>
-      <Welcome />
+      <Welcome/>
     </View>
   );
 }

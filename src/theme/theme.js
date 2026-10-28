@@ -5,6 +5,7 @@ export const theme={
         flex: 1,
         backgroundColor: COLORS.background,
         alignItems: "center",
-        padding: 40,
+        paddingVertical: 50,
+        paddingHorizontal: 30
     },
 }

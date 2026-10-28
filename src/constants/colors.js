@@ -5,5 +5,8 @@ export const COLORS = {
     card: '#E2ECE9',
     border: '#c3cac8',
     text: 'black',
-    textLight: 'gray'
+    textLight: 'gray',
+    formShadow: '#b5b5b5',
+    inputText: "#111827",
+    error: "#d43737d5"
 }
